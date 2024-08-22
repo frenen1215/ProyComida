@@ -1,0 +1,21 @@
+*
+{
+margin: 15px;
+}
+body{
+    background-color: rgb(207, 186, 226);
+}
+img{
+width: 500px;
+height: 300px;
+}
+p{
+    background-color: black;
+    color: azure;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+h1 {
+    color: brown;
+    font-size: 60px;
+}
